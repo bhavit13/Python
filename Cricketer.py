@@ -1,0 +1,8 @@
+name = input(" What's your name? " )
+print("Hello, ",name)
+Cricketer = input (" Who's your Favourite Cricketer? ")
+print("Your Favourite Cricketer is, ",Cricketer)
+Jersey = input (" What's the jersey no. of your favourite Cricketer? ")
+print("Your favourite Cricketer's Jersey no. is, ",Jersey)
+IPL = input (" Which is your favourite cricket franchise in IPL? ")
+print("Your favourite cricket team in IPL is, ",IPL)
